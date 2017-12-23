@@ -1,6 +1,5 @@
-# desktop-myetherwallet
-A Desktop wrapper of the https://www.myetherwallet.com/ using https://electron.atom.io
 
-![alt text](https://i.gyazo.com/f84d7456d5cbf62b0fe99641b7539d39.png)
+# eth-wallet
 
-![alt text](https://i.gyazo.com/65f113e99801bde7e0dae1dd0cf9d530.png)
+This repository wraps `v3.10.10.3` of [the official MyEtherWallet repository](https://github.com/kvhnuke/etherwallet/tree/v3.10.10.3/app).
+
