@@ -5,8 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "package": "electron-packager ./ --platform=darwin --out=./dist --overwrite --icon=build/icon.icns",
-    "package:all": "electron-packager ./ --all --out=./dist --overwrite --icon=build/icon.icns"
+    "package": "electron-packager . --out=dist --overwrite --icon=build/icon.icns"
   },
   "bin": {
     "mew": "bin/startMEW.js"
