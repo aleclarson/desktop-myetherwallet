@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "CC0-1.0",
   "main": "main.js",
+  "productName": "MyEtherWallet",
   "scripts": {
     "start": "electron .",
     "package": "electron-packager . --out=dist --overwrite --icon=build/icon.icns"
